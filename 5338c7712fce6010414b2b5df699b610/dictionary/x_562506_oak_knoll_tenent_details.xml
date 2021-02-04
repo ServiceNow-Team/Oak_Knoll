@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Tenent details" max_length="40" name="x_562506_oak_knoll_tenent_details" sizeclass="2" type="collection">
+        <element display="true" label="Unit number" max_length="10" name="unit_number" type="string"/>
+        <element label="Mobile" mandatory="true" max_length="40" name="u_integer_4" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" mandatory="true" max_length="20" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" mandatory="true" max_length="20" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="50" name="u_string_3" type="string"/>
+    </element>
+</database>

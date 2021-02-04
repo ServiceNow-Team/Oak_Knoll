@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 02:35:18</sys_created_on>
+        <sys_id>6b1ea18a2f022010414b2b5df699b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_562506_oak_knoll_tenent_details.x_562506_oak_knoll.tenent_details_user</sys_name>
+        <sys_package display_value="Oak Knoll Townhomes" source="x_562506_oak_knoll">5338c7712fce6010414b2b5df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Oak Knoll Townhomes">5338c7712fce6010414b2b5df699b610</sys_scope>
+        <sys_security_acl display_value="x_562506_oak_knoll_tenent_details">eb1ea18a2f022010414b2b5df699b6c9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6b1ea18a2f022010414b2b5df699b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 02:35:18</sys_updated_on>
+        <sys_user_role display_value="x_562506_oak_knoll.tenent_details_user" name="x_562506_oak_knoll.tenent_details_user">931e694a2f022010414b2b5df699b6f2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Oak Knoll Townhomes">5338c7712fce6010414b2b5df699b610</application>
+        <file_path/>
+        <instance_id>685f7594dbd15f406578f22ebf9619b6</instance_id>
+        <instance_name>dev54833</instance_name>
+        <name>sys_security_acl_role_6b1ea18a2f022010414b2b5df699b6cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-02 02:35:18</sys_created_on><sys_id>6b1ea18a2f022010414b2b5df699b6cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_562506_oak_knoll_tenent_details.x_562506_oak_knoll.tenent_details_user</sys_name><sys_package display_value="Oak Knoll Townhomes" source="x_562506_oak_knoll">5338c7712fce6010414b2b5df699b610</sys_package><sys_policy/><sys_scope display_value="Oak Knoll Townhomes">5338c7712fce6010414b2b5df699b610</sys_scope><sys_security_acl display_value="x_562506_oak_knoll_tenent_details">eb1ea18a2f022010414b2b5df699b6c9</sys_security_acl><sys_update_name>sys_security_acl_role_6b1ea18a2f022010414b2b5df699b6cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-02 02:35:18</sys_updated_on><sys_user_role display_value="x_562506_oak_knoll.tenent_details_user" name="x_562506_oak_knoll.tenent_details_user">931e694a2f022010414b2b5df699b6f2</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>546397695</payload_hash>
+        <record_name>x_562506_oak_knoll_tenent_details.x_562506_oak_knoll.tenent_details_user</record_name>
+        <reverted_from/>
+        <source>9338c7712fce6010414b2b5df699b612</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 02:35:18</sys_created_on>
+        <sys_id>6b1ea18a2f022010414b2b5df699b6db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17760981f680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 02:35:18</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a31ea18a4102201000539d55e3ea42db</update_guid>
+        <update_guid_history>a31ea18a4102201000539d55e3ea42db:546397695</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_562506_oak_knoll_tenent_details.x_562506_oak_knoll.tenent_details_user">5c02fd4e2f022010414b2b5df699b60e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-02 02:52:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>a8b99d181cad45ac9413150b61cac384</sys_id>
+        <sys_metadata>6b1ea18a2f022010414b2b5df699b6cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_562506_oak_knoll_tenent_details.x_562506_oak_knoll.tenent_details_user</sys_name>
+        <sys_package display_value="Oak Knoll Townhomes" source="x_562506_oak_knoll">5338c7712fce6010414b2b5df699b610</sys_package>
+        <sys_parent display_value="x_562506_oak_knoll_tenent_details">eb1ea18a2f022010414b2b5df699b6c9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Oak Knoll Townhomes">5338c7712fce6010414b2b5df699b610</sys_scope>
+        <sys_scope_delete display_value="">4b3f03e9fcf04bc686523b18738d1aa4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_6b1ea18a2f022010414b2b5df699b6cc</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_6b1ea18a2f022010414b2b5df699b6cc">6b1ea18a2f022010414b2b5df699b6db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-02 02:52:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_glide_date_time_1" label="Requested date" language="en" table="x_562506_oak_knoll_manitenence_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_1</element>
+            <help/>
+            <hint/>
+            <label>Requested date</label>
+            <language>en</language>
+            <name>x_562506_oak_knoll_manitenence_request</name>
+            <plural>Requested dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-02 02:08:21</sys_created_on>
+            <sys_id>34f729c22f022010414b2b5df699b673</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Requested date</sys_name>
+            <sys_package display_value="Oak Knoll Townhomes" source="x_562506_oak_knoll">5338c7712fce6010414b2b5df699b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Oak Knoll Townhomes">5338c7712fce6010414b2b5df699b610</sys_scope>
+            <sys_update_name>sys_documentation_x_562506_oak_knoll_manitenence_request_u_glide_date_time_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-02 02:14:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

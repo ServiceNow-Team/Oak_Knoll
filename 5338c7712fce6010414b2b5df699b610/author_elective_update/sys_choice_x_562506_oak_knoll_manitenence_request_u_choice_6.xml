@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_6" table="x_562506_oak_knoll_manitenence_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_6</element>
+            <name>x_562506_oak_knoll_manitenence_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-02 02:14:35</sys_created_on>
+            <sys_id>5c69ad062f022010414b2b5df699b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_6</sys_name>
+            <sys_package display_value="Oak Knoll Townhomes" source="x_562506_oak_knoll">5338c7712fce6010414b2b5df699b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Oak Knoll Townhomes">5338c7712fce6010414b2b5df699b610</sys_scope>
+            <sys_update_name>sys_choice_x_562506_oak_knoll_manitenence_request_u_choice_6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-02 02:14:35</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_6</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>9AM to 12PM</label>
+            <language>en</language>
+            <name>x_562506_oak_knoll_manitenence_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-02 02:14:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1469ad062f022010414b2b5df699b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-02 02:14:35</sys_updated_on>
+            <value>9am to 12pm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_6</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2PM to 5PM</label>
+            <language>en</language>
+            <name>x_562506_oak_knoll_manitenence_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-02 02:14:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d469ad062f022010414b2b5df699b6b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-02 02:14:36</sys_updated_on>
+            <value>2pm to 5pm</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
