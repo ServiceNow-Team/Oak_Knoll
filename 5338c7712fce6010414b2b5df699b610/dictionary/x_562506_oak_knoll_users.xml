@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Users" max_length="40" name="x_562506_oak_knoll_users" type="collection">
+        <element label="Password" max_length="40" name="password" type="password"/>
+        <element display="true" label="User name" max_length="40" name="user_name" type="string"/>
+    </element>
+</database>
