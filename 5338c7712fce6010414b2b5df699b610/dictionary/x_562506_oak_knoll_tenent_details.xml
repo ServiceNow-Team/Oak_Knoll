@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Tenent details" max_length="40" name="x_562506_oak_knoll_tenent_details" sizeclass="2" type="collection">
+    <element label="Tenant details" max_length="40" name="x_562506_oak_knoll_tenent_details" type="collection">
         <element display="true" label="Unit number" max_length="10" name="unit_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Currently Occupied" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
         <element label="Mobile" mandatory="true" max_length="40" name="u_integer_4" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="First name" mandatory="true" max_length="20" name="u_string_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Last name" mandatory="true" max_length="20" name="u_string_2" type="string"/>

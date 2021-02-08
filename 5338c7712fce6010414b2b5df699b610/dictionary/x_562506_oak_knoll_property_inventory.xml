@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Property Inventory" max_length="40" name="x_562506_oak_knoll_property_inventory" type="collection">
+        <element label="Unit number" max_length="40" name="unit_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lease start date" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Lease end date" max_length="40" name="u_calendar_date_time_2" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Empty" sequence="0" value="empty"/>
+                <element inactive_on_update="false" label="Occupied" sequence="1" value="occupied"/>
+                <element inactive_on_update="false" label="Uner Maintenance" sequence="2" value="uner maintenance"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,omit_sys_original=true" label="Current rent" max_length="20" name="u_currency_3" type="currency"/>
+    </element>
+</database>

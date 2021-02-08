@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Manitenence Request " max_length="40" name="x_562506_oak_knoll_manitenence_request" sizeclass="2" type="collection">
+    <element label="Maintenance Request " max_length="40" name="x_562506_oak_knoll_manitenence_request" type="collection">
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element display="true" label="Unit number" mandatory="true" max_length="40" name="unit_numer" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Problem category" mandatory="true" max_length="40" name="u_choice_2" type="string">

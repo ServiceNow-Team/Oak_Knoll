@@ -4,13 +4,13 @@
             <element>unit_number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-02-02 02:41:05</sys_created_on>
-            <sys_id>107fa5ca2f022010414b2b5df699b6b9</sys_id>
+            <sys_created_on>2021-02-08 15:15:10</sys_created_on>
+            <sys_id>f49593c82f522010ab547f572799b676</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_562506_oak_knoll_tenent_details" sys_domain="global" view="Default view">b93e654a2f022010414b2b5df699b691</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-02-02 02:41:05</sys_updated_on>
+            <sys_updated_on>2021-02-08 15:15:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_string_1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-02-02 02:41:05</sys_created_on>
-            <sys_id>907fa5ca2f022010414b2b5df699b6b9</sys_id>
+            <sys_created_on>2021-02-08 15:15:10</sys_created_on>
+            <sys_id>789593c82f522010ab547f572799b676</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_562506_oak_knoll_tenent_details" sys_domain="global" view="Default view">b93e654a2f022010414b2b5df699b691</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-02-02 02:41:05</sys_updated_on>
+            <sys_updated_on>2021-02-08 15:15:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_string_2</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-02-02 02:41:05</sys_created_on>
-            <sys_id>147fa5ca2f022010414b2b5df699b6b9</sys_id>
+            <sys_created_on>2021-02-08 15:15:10</sys_created_on>
+            <sys_id>f89593c82f522010ab547f572799b676</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_562506_oak_knoll_tenent_details" sys_domain="global" view="Default view">b93e654a2f022010414b2b5df699b691</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-02-02 02:41:05</sys_updated_on>
+            <sys_updated_on>2021-02-08 15:15:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_string_3</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-02-02 02:41:05</sys_created_on>
-            <sys_id>947fa5ca2f022010414b2b5df699b6b9</sys_id>
+            <sys_created_on>2021-02-08 15:15:10</sys_created_on>
+            <sys_id>7c9593c82f522010ab547f572799b676</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_562506_oak_knoll_tenent_details" sys_domain="global" view="Default view">b93e654a2f022010414b2b5df699b691</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-02-02 02:41:05</sys_updated_on>
+            <sys_updated_on>2021-02-08 15:15:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,27 @@
             <element>u_integer_4</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-02-02 02:41:05</sys_created_on>
-            <sys_id>dc7fa5ca2f022010414b2b5df699b6c5</sys_id>
+            <sys_created_on>2021-02-08 15:15:10</sys_created_on>
+            <sys_id>cd9593c82f522010ab547f572799b676</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_562506_oak_knoll_tenent_details" sys_domain="global" view="Default view">b93e654a2f022010414b2b5df699b691</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-02-02 02:41:05</sys_updated_on>
+            <sys_updated_on>2021-02-08 15:15:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 15:15:10</sys_created_on>
+            <sys_id>419593c82f522010ab547f572799b677</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_562506_oak_knoll_tenent_details" sys_domain="global" view="Default view">b93e654a2f022010414b2b5df699b691</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 15:15:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

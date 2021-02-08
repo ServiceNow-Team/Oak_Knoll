@@ -42,7 +42,7 @@
         <update_guid_history>6b1ea18a94022010a2b84610613552b0:-496606351</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_562506_oak_knoll_tenent_details.x_562506_oak_knoll.tenent_details_user">0802bd4e2f022010414b2b5df699b6fc</sys_audit_delete>
+        <sys_audit_delete display_value="">0802bd4e2f022010414b2b5df699b6fc</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-02-02 02:52:16</sys_created_on>

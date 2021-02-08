@@ -42,7 +42,7 @@
         <update_guid_history>c996a182290220102906235de48973d2:2081876972</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_562506_oak_knoll_manitenence_request.x_562506_oak_knoll.manitenence_request_us">3bdbadc62f022010414b2b5df699b624</sys_audit_delete>
+        <sys_audit_delete display_value="">3bdbadc62f022010414b2b5df699b624</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-02-02 02:25:29</sys_created_on>
